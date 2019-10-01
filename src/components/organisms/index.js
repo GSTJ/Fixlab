@@ -1,0 +1,5 @@
+export { default as BannerOne } from "./bannerOne"
+export { default as BannerTwo } from "./bannerTwo"
+export { default as Navbar } from "./navbar"
+export { default as Footer } from "./footer"
+export { default as KnowMore } from "./knowMore"
