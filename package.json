@@ -45,6 +45,6 @@
     "develop": "NODE_TLS_REJECT_UNAUTHORIZED=0 gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "NODE_TLS_REJECT_UNAUTHORIZED=0 npm run develop --https",
-    "serve": "gatsby serve",
+    "serve": "gatsby serve"
   }
 }
