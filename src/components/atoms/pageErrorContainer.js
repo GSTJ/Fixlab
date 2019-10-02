@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 import { Title } from "components/atoms"
 
-export const Container = styled.div`
+export default styled.div`
     max-height: 500px;
     display: flex;
     flex-direction: column;

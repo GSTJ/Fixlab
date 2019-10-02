@@ -11,4 +11,5 @@ export { default as PostArea } from "./postArea"
 export { default as Information } from "./information"
 export { default as TitleContainer } from "./titleContainer"
 export { default as Separator } from "./separator"
+export { default as PageErrorContainer } from "./pageErrorContainer"
 export { Link }
