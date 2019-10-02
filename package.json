@@ -1,6 +1,6 @@
 {
   "name": "fixlab-template-gatsby-wordpress",
-  "private": true,
+  "private": false,
   "description": "Template Fixlab",
   "version": "0.1.0",
   "author": "Gabriel Sozza Taveira José <gabrielstaveira@gmail.com>",
