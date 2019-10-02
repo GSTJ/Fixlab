@@ -15,8 +15,6 @@ A primeira versão criada com o React não funcionou muito bem por questões de 
 
 1.  **Crie um clone do repositório**
 
-    Use the Gatsby CLI to create a new site, specifying the default starter.
-
     ```sh
     git clone https://github.com/GSTJ/Fixlab
     ```
